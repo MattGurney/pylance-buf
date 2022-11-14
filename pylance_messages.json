@@ -1,0 +1,127 @@
+[{
+	"resource": "/Users/mattgurney/projects/pylance-buf/pylance-buf-test.py",
+	"owner": "_generated_diagnostic_collection_name_#2",
+	"code": {
+		"value": "reportUnknownVariableType",
+		"target": {
+			"$mid": 1,
+			"external": "https://github.com/microsoft/pylance-release/blob/main/DIAGNOSTIC_SEVERITY_RULES.md#diagnostic-severity-rules",
+			"path": "/microsoft/pylance-release/blob/main/DIAGNOSTIC_SEVERITY_RULES.md",
+			"scheme": "https",
+			"authority": "github.com",
+			"fragment": "diagnostic-severity-rules"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"pet\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 5,
+	"startColumn": 5,
+	"endLineNumber": 5,
+	"endColumn": 8
+},{
+	"resource": "/Users/mattgurney/projects/pylance-buf/pylance-buf-test.py",
+	"owner": "_generated_diagnostic_collection_name_#2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"external": "https://github.com/microsoft/pylance-release/blob/main/DIAGNOSTIC_SEVERITY_RULES.md#diagnostic-severity-rules",
+			"path": "/microsoft/pylance-release/blob/main/DIAGNOSTIC_SEVERITY_RULES.md",
+			"scheme": "https",
+			"authority": "github.com",
+			"fragment": "diagnostic-severity-rules"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"Pet\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 5,
+	"startColumn": 11,
+	"endLineNumber": 5,
+	"endColumn": 22
+},{
+	"resource": "/Users/mattgurney/projects/pylance-buf/pylance-buf-test.py",
+	"owner": "_generated_diagnostic_collection_name_#2",
+	"code": {
+		"value": "reportGeneralTypeIssues",
+		"target": {
+			"$mid": 1,
+			"external": "https://github.com/microsoft/pylance-release/blob/main/DIAGNOSTIC_SEVERITY_RULES.md#diagnostic-severity-rules",
+			"path": "/microsoft/pylance-release/blob/main/DIAGNOSTIC_SEVERITY_RULES.md",
+			"scheme": "https",
+			"authority": "github.com",
+			"fragment": "diagnostic-severity-rules"
+		}
+	},
+	"severity": 8,
+	"message": "\"Pet\" is not a known member of module",
+	"source": "Pylance",
+	"startLineNumber": 5,
+	"startColumn": 19,
+	"endLineNumber": 5,
+	"endColumn": 22
+},{
+	"resource": "/Users/mattgurney/projects/pylance-buf/pylance-buf-test.py",
+	"owner": "_generated_diagnostic_collection_name_#2",
+	"code": {
+		"value": "reportUnknownMemberType",
+		"target": {
+			"$mid": 1,
+			"external": "https://github.com/microsoft/pylance-release/blob/main/DIAGNOSTIC_SEVERITY_RULES.md#diagnostic-severity-rules",
+			"path": "/microsoft/pylance-release/blob/main/DIAGNOSTIC_SEVERITY_RULES.md",
+			"scheme": "https",
+			"authority": "github.com",
+			"fragment": "diagnostic-severity-rules"
+		}
+	},
+	"severity": 8,
+	"message": "Type of \"PET_TYPE_DOG\" is unknown",
+	"source": "Pylance",
+	"startLineNumber": 8,
+	"startColumn": 20,
+	"endLineNumber": 8,
+	"endColumn": 40
+},{
+	"resource": "/Users/mattgurney/projects/pylance-buf/pylance-buf-test.py",
+	"owner": "_generated_diagnostic_collection_name_#2",
+	"code": {
+		"value": "reportGeneralTypeIssues",
+		"target": {
+			"$mid": 1,
+			"external": "https://github.com/microsoft/pylance-release/blob/main/DIAGNOSTIC_SEVERITY_RULES.md#diagnostic-severity-rules",
+			"path": "/microsoft/pylance-release/blob/main/DIAGNOSTIC_SEVERITY_RULES.md",
+			"scheme": "https",
+			"authority": "github.com",
+			"fragment": "diagnostic-severity-rules"
+		}
+	},
+	"severity": 8,
+	"message": "\"PET_TYPE_DOG\" is not a known member of module",
+	"source": "Pylance",
+	"startLineNumber": 8,
+	"startColumn": 28,
+	"endLineNumber": 8,
+	"endColumn": 40
+},{
+	"resource": "/Users/mattgurney/projects/pylance-buf/pylance-buf-test.py",
+	"owner": "_generated_diagnostic_collection_name_#2",
+	"code": {
+		"value": "reportUnknownArgumentType",
+		"target": {
+			"$mid": 1,
+			"external": "https://github.com/microsoft/pylance-release/blob/main/DIAGNOSTIC_SEVERITY_RULES.md#diagnostic-severity-rules",
+			"path": "/microsoft/pylance-release/blob/main/DIAGNOSTIC_SEVERITY_RULES.md",
+			"scheme": "https",
+			"authority": "github.com",
+			"fragment": "diagnostic-severity-rules"
+		}
+	},
+	"severity": 8,
+	"message": "Argument type is unknown\n  Argument corresponds to parameter \"values\" in function \"print\"",
+	"source": "Pylance",
+	"startLineNumber": 9,
+	"startColumn": 11,
+	"endLineNumber": 9,
+	"endColumn": 14
+}]
